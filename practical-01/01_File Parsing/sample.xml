@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<students>
+    <student id="1"><name>Alice</name><course>Data Science</course><marks>85</marks></student>
+    <student id="2"><name>Bob</name><course>Data Science</course><marks>78</marks></student>
+    <student id="3"><name>Charlie</name><course>Computer Science</course><marks>92</marks></student>
+</students>

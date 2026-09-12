@@ -1,0 +1,6 @@
+Student Data Report
+Alice, Data Science, 85
+Bob, Data Science, 78
+Charlie, Computer Science, 92
+Diana, Data Science,
+Evan, Computer Science, 88
