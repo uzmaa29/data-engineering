@@ -1,4 +1,4 @@
-# Practical 7 – Setting Up Apache Airflow and Creating a DAG
+# Practical 6 – Setting Up Apache Airflow and Creating a DAG
 
 ## Objective
 Configure an Apache Airflow DAG to run daily and execute sequential ETL tasks: start the pipeline, run the extraction script, and log successful completion.
