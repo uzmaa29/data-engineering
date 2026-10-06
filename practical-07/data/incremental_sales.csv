@@ -1,0 +1,5 @@
+OrderID,CustomerID,Product,Quantity,Price,LastUpdated
+201,1,Laptop,1,55000,2026-10-01
+202,2,Mouse,2,800,2026-10-02
+203,3,Keyboard,1,1500,2026-10-03
+204,4,Monitor,1,12000,2026-10-05

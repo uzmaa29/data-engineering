@@ -1,0 +1,6 @@
+[
+  {"order_id":101,"customer_id":1,"product":"Laptop","quantity":2,"price":55000,"status":"Completed"},
+  {"order_id":102,"customer_id":2,"product":"Mouse","quantity":3,"price":800,"status":"Completed"},
+  {"order_id":103,"customer_id":3,"product":"Keyboard","quantity":1,"price":1500,"status":"Pending"},
+  {"order_id":104,"customer_id":4,"product":"Monitor","quantity":2,"price":12000,"status":"Completed"}
+]

@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Age
+9,Neha Shah,neha@example.com,22
+10,,arjun@example.com,25
+11,Arjun Patil,invalid-email,30
+12,Priya Singh,priya@example.com,-5
+13,Riya Kapoor,riya@example.com,28
