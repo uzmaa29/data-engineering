@@ -1,0 +1,11 @@
+OrderID,ProductID,Product,Category,Quantity,Sales
+101,1,Laptop,Electronics,2,110000
+102,2,Mouse,Accessories,5,4000
+103,3,Keyboard,Accessories,3,4500
+104,4,Monitor,Electronics,2,24000
+105,5,Printer,Office,1,12000
+106,1,Laptop,Electronics,1,55000
+107,2,Mouse,Accessories,4,3200
+108,3,Keyboard,Accessories,2,3000
+108,3,Keyboard,Accessories,2,3000
+109,5,Printer,Office,2,24000
