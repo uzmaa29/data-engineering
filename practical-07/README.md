@@ -1,4 +1,4 @@
-# Practical 8 – ETL Pipeline Design and Implementation
+# Practical 7 – ETL Pipeline Design and Implementation
 
 ## Objective
 Design and implement ETL pipelines using Python, Pandas, CSV/JSON files, and SQL Server.
