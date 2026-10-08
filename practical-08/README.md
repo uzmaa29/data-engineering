@@ -1,4 +1,4 @@
-# Practical 9 – PySpark DataFrame Operations
+# Practical 8 – PySpark DataFrame Operations
 
 ## Objective
 Perform common data processing operations using PySpark DataFrames.
