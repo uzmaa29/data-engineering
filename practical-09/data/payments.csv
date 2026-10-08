@@ -1,0 +1,7 @@
+payment_id,order_id,payment_date,payment_method,payment_amount,payment_status
+5001,1001,2025-06-01,Card,55000,Paid
+5002,1002,2025-06-02,UPI,1600,Paid
+5003,1003,2025-06-03,Card,1500,Refunded
+5004,1004,2025-06-04,Card,24000,Paid
+5005,1005,2025-06-05,UPI,12000,Paid
+5006,1006,2025-06-06,NetBanking,2400,Paid

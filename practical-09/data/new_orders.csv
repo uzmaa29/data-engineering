@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,status
+1007,2,101,2025-06-07,1,Completed
+1008,3,104,2025-06-08,1,Completed
